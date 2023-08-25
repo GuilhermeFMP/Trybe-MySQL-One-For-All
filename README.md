@@ -19,8 +19,8 @@ Aprendi nesse projeto a utilizar o MySql ralizando queries e manipulando informa
 Instalação com npm
 
 ```bash
-  git@github.com:GuilhermeFMP/MySQL-One-For-All.git
-  cd MySQL-One-For-All
+  git clone git@github.com:GuilhermeFMP/Trybe-MySQL-One-For-All.git
+  cd Trybe-MySQL-One-For-All
   npm install
 ```
     
